@@ -26,3 +26,5 @@ sw-injector.js
 
 # Log files
 *.log
+
+node_modules/
